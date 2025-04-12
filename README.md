@@ -53,9 +53,9 @@ void main() {
 - ✨ Building projects that solve real-world problems
 
 ## 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩!
-- 📫 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🎨 **Design Portfolio:** [behance.net/yourprofile](https://behance.net/yourprofile)
+- 📫 **Email:** zoubaamohammed@yahoo.com
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/zoubaa-mohammed-398266350/)
+
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
 ```
