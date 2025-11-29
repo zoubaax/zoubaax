@@ -1,58 +1,117 @@
+# 👋 Hey, I'm Mohammed Zoubaa
 
-# 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙈𝙤𝙝𝙖𝙢𝙢𝙚𝙙 𝙕𝙤𝙪𝙗𝙖𝙖 👨‍💻
+> **Software Developer | Problem Solver | Tech Enthusiast**
 
-**Future Software Engineer | UX/UI Designer | Full-Stack Developer**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoubaa-mohammed-398266350/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zoubaamohammed@yahoo.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2EA&width=435&lines=Turning+ideas+into+reality;Clean+code+advocate;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
+## 🚀 About Me
 
-```dart
-void main() {
-  print("Crafting digital experiences through code and design");
-}
-```
+I'm a passionate software developer from Morocco 🇲🇦 with a strong interest in building innovative digital solutions. I enjoy turning complex problems into simple, beautiful designs and creating applications that make a difference.
 
-## 🛠 𝙏𝙚𝙘𝙝 𝙎𝙠𝙞𝙡𝙡𝙨
+**📍 Based in Morocco** | **🌍 Open to Remote Work Worldwide**
 
-### 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 & 𝙈𝙤𝙗𝙞𝙡𝙚
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**🗣️ Languages:** Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 𝙐𝙓/𝙐𝙄 𝘿𝙚𝙨𝙞𝙜𝙣
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![User Research](https://img.shields.io/badge/User_Research-FF6B6B?style=for-the-badge&logo=open-access&logoColor=white)
-
-### 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 & �𝙋𝙃𝙋
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🔧 Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 🌟 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩𝙨
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
-| Project | Description | Stack | Design |
-|---------|-------------|-------|--------|
-| [E-Commerce App](link) | Mobile shopping platform | Flutter, Firebase | [Figma Prototype](link) |
-| [Task Manager](link) | Productivity web app | MERN Stack | [Behance Case Study](link) |
-| [CRM System](link) | Business management tool | Laravel, MySQL | [UI Kit](link) |
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📈 𝙂𝙞𝙩𝙃𝙪𝙗 𝙈𝙚𝙩𝙧𝙞𝙘𝙨
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+### 🔧 **Microservices Architecture**
+> Containerized application with CI/CD pipeline
 
-</div>
+**🛠️ Tech Stack:** Java, Spring Boot, Docker, Kubernetes, AWS
 
-## 𝙒𝙝𝙖𝙩 𝙄'𝙢 𝙐𝙥 𝙏𝙤
-- 🔭 Preparing for my engineering career with advanced CS studies
-- 🎨 Designing interfaces that balance aesthetics and functionality
-- 🌱 Mastering algorithms and system design principles
-- ✨ Building projects that solve real-world problems
+**✨ Features:**
+- Microservices architecture
+- Container orchestration
+- Automated deployment pipeline
+- Monitoring and logging
+- Load balancing
 
-## 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩!
-- 📫 **Email:** zoubaamohammed@yahoo.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/zoubaa-mohammed-398266350/)
 
+## 🌱 Currently Learning
+
+- ☁️ **AWS Advanced Services** - EKS, Lambda, CloudFormation
+- 🛠️ **Kubernetes** - Advanced orchestration patterns
+- 🔒 **DevSecOps** - Security in DevOps pipeline
+- 🇫🇷 **French** - Improving business proficiency
+
+## 🎯 Career Goals
+
+### Short Term Goals
+- [ ] Senior Full-stack Developer role
+- [ ] Contribute to large-scale open source projects
+- [ ] Mentor junior developers
+- [ ] Master cloud technologies (AWS/Azure)
+
+### Long Term Aspirations
+- [ ] DevOps Engineer/Architect role
+- [ ] Build and scale my own SaaS product
+- [ ] Active tech community involvement
+- [ ] Conference speaking engagements
+
+## 📊 Development Philosophy
+
+> **"Clean code is not just about working software - it's about creating maintainable and scalable solutions that stand the test of time."**
+
+## 📫 Let's Connect
+
+I'm always excited to:
+
+- 💼 Discuss interesting job opportunities
+- 🤝 Collaborate on technical projects
+- 🎯 Exchange knowledge and ideas
+- 🌱 Grow together in the tech community
+
+**📧 Email:** itsmezoubaa@gmail.com
+**💼 LinkedIn:** https://www.linkedin.com/in/zoubaa-mohammed
+**🌐 Portfolio:** https://zoubaax.github.io/zoubaa
+
+---
